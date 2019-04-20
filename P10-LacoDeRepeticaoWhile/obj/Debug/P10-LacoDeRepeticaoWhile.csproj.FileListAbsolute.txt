@@ -1,0 +1,6 @@
+C:\Users\eduar\source\repos\CSharp\P10-LacoDeRepeticaoWhile\bin\Debug\P10-LacoDeRepeticaoWhile.exe.config
+C:\Users\eduar\source\repos\CSharp\P10-LacoDeRepeticaoWhile\bin\Debug\P10-LacoDeRepeticaoWhile.exe
+C:\Users\eduar\source\repos\CSharp\P10-LacoDeRepeticaoWhile\bin\Debug\P10-LacoDeRepeticaoWhile.pdb
+C:\Users\eduar\source\repos\CSharp\P10-LacoDeRepeticaoWhile\obj\Debug\P10-LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\CSharp\P10-LacoDeRepeticaoWhile\obj\Debug\P10-LacoDeRepeticaoWhile.exe
+C:\Users\eduar\source\repos\CSharp\P10-LacoDeRepeticaoWhile\obj\Debug\P10-LacoDeRepeticaoWhile.pdb
